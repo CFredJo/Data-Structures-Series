@@ -1,12 +1,14 @@
 # Data-Structures-Series
-This repository contains a showcase of fundamental data structures implemented in C++. Each structure was designed and tested by me during my studies, and has a simple console application to demonstrate its functionality and efficiency.
+This repository contains a showcase of some fundamental data structures implemented in C++. Each structure was written line-by-line and tested by me during my studies, and each has a simple console application and test driver to demonstrate its functionality and efficiency.
 
 This series serves as both a personal learning resource and a showcase of my ability to choose, implement, and manipulate classic data structures efficiently in C++. The repository is intended to help developers and students better understand the inner workings of everyday data structures while demonstrating how they can be applied in software development by providing clean, well-documented code and using them in real-world applications.
 \
 \
 **Included Data Structures:**
 
-- Arrays
+- Static Arrays
+
+- Dynamic Arrays
 
 - Linked Lists (Singly and Doubly)
 
