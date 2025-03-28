@@ -1,4 +1,4 @@
-/*// Programmer: Cheyenne Frediani-Jost
+// Programmer: Cheyenne Frediani-Jost
 // Programmer ID: 1429200
 
 #include <iostream>
@@ -60,4 +60,3 @@ int main()
     cin >> buf1;
   }
 }
-*/
