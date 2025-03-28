@@ -10,15 +10,13 @@ This series serves as both a personal learning resource and a showcase of my abi
 
 - Dynamic Arrays
 
-- Linked Lists (Singly and Doubly)
+- Associative Arrays
 
 - Stacks
 
 - Queues
 
 - Hash Tables
-
-- Binary Search Trees (BST)
   
 \
 **Features:**
